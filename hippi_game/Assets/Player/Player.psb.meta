@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 03ecd24df9e364c4f9e406e31828598c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: UpperLeg Copy
+    originalName: 
+    pivot: {x: 0.51002836, y: 0.76174945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 843
+      y: 1212
+      width: 210
+      height: 362
+    spriteID: 447d8fd87d44f9e4dae1d4d8a9f9a532
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 313, y: 701}
+  - name: LowerLeg Copy
+    originalName: 
+    pivot: {x: 0.71446174, y: 0.81144255}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 843
+      y: 1582
+      width: 216
+      height: 311
+    spriteID: 15adb8d052513114b80d06a4f319e5a0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 396, y: 1274}
+  - name: Foot Copy
+    originalName: 
+    pivot: {x: 0.37208942, y: 0.80730706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 839
+      y: 1901
+      width: 214
+      height: 185
+    spriteID: b63b9c60007257b45ae56c6f80c9149a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 373, y: 1670}
+  - name: LowerArm
+    originalName: 
+    pivot: {x: 0.6927688, y: 0.9059029}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1061
+      y: 1212
+      width: 142
+      height: 249
+    spriteID: aa768b870ffff4f4d82ad957b44cc7ed
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 875}
+  - name: Hand
+    originalName: 
+    pivot: {x: 0.38081563, y: 0.764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1065
+      y: 1901
+      width: 106
+      height: 175
+    spriteID: fb626eae7baaf7d45b413fc8c1f9e5de
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 512, y: 1657}
+  - name: UpperArm
+    originalName: 
+    pivot: {x: 0.5595945, y: 0.83481646}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1067
+      y: 1582
+      width: 106
+      height: 283
+    spriteID: 72ed9dc2b89bc414ea9413e1a78f90ef
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 502, y: 1079}
+  - name: "Cs\xEDpo Copy"
+    originalName: 
+    pivot: {x: 0.52853155, y: 0.7807498}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 590
+      y: 2126
+      width: 369
+      height: 195
+    spriteID: 8dc3216899284cf4f8f3a6c6f61014e1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 167, y: 1634}
+  - name: Body
+    originalName: 
+    pivot: {x: 0.59551275, y: 0.38338134}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2714
+      width: 485
+      height: 650
+    spriteID: c4be873ae3b1e1648b17d9120d02aa77
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -351, y: 2478}
+  - name: Head Copy 2
+    originalName: 
+    pivot: {x: 0.5072611, y: 0.038942743}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2126
+      width: 580
+      height: 580
+    spriteID: c5beb9b8b2fee654991b54072b092b51
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -360, y: 1710}
+  - name: Paper
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1200
+      height: 1200
+    spriteID: bb22286923190e74a987cc6191584191
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  - name: Hair2 Copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1212
+      width: 831
+      height: 906
+    spriteID: cf0f1685f9c26a74cbd8d25e63f0e7a1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -101, y: 996}
+  - name: Hair21 Copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3372
+      width: 440
+      height: 710
+    spriteID: 1391b85302de890418b20a0aa5ca3a69
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -344, y: 3318}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 1200, y: 1200}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Leg Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 0
+    mosaicPosition: {x: 0, y: 0}
+  - name: UpperLeg Copy
+    spriteName: UpperLeg Copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 447d8fd87d44f9e4dae1d4d8a9f9a532
+    layerID: 905882281
+    mosaicPosition: {x: 843, y: 1212}
+  - name: LowerLeg Copy
+    spriteName: LowerLeg Copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 15adb8d052513114b80d06a4f319e5a0
+    layerID: 909970482
+    mosaicPosition: {x: 843, y: 1582}
+  - name: Foot Copy
+    spriteName: Foot Copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b63b9c60007257b45ae56c6f80c9149a
+    layerID: -1469424965
+    mosaicPosition: {x: 843, y: 1901}
+  - name: Arm Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 540717087
+    mosaicPosition: {x: 0, y: 0}
+  - name: LowerArm
+    spriteName: LowerArm
+    isGroup: 0
+    parentIndex: 4
+    spriteID: aa768b870ffff4f4d82ad957b44cc7ed
+    layerID: -986889203
+    mosaicPosition: {x: 1061, y: 1212}
+  - name: Hand
+    spriteName: Hand
+    isGroup: 0
+    parentIndex: 4
+    spriteID: fb626eae7baaf7d45b413fc8c1f9e5de
+    layerID: 762136195
+    mosaicPosition: {x: 1065, y: 1901}
+  - name: UpperArm
+    spriteName: UpperArm
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 72ed9dc2b89bc414ea9413e1a78f90ef
+    layerID: 1505414476
+    mosaicPosition: {x: 1067, y: 1582}
+  - name: Body Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1956252789
+    mosaicPosition: {x: 0, y: 0}
+  - name: "Cs\xEDpo Copy"
+    spriteName: "Cs\xEDpo Copy"
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 8dc3216899284cf4f8f3a6c6f61014e1
+    layerID: -1742272889
+    mosaicPosition: {x: 592, y: 2126}
+  - name: Body
+    spriteName: Body
+    isGroup: 0
+    parentIndex: 8
+    spriteID: c4be873ae3b1e1648b17d9120d02aa77
+    layerID: -911352830
+    mosaicPosition: {x: 4, y: 2714}
+  - name: Head
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: -158744160
+    mosaicPosition: {x: 0, y: 0}
+  - name: Hair2 Copy
+    spriteName: Hair2 Copy
+    isGroup: 0
+    parentIndex: 11
+    spriteID: cf0f1685f9c26a74cbd8d25e63f0e7a1
+    layerID: -711764379
+    mosaicPosition: {x: 4, y: 1212}
+  - name: Hair21 Copy
+    spriteName: Hair21 Copy
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 1391b85302de890418b20a0aa5ca3a69
+    layerID: -362550620
+    mosaicPosition: {x: 4, y: 3372}
+  - name: Head Copy 2
+    spriteName: Head Copy 2
+    isGroup: 0
+    parentIndex: 11
+    spriteID: c5beb9b8b2fee654991b54072b092b51
+    layerID: 955137851
+    mosaicPosition: {x: 4, y: 2126}
+  - name: Paper
+    spriteName: Paper
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bb22286923190e74a987cc6191584191
+    layerID: -1779142660
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Player Texture
+  prefabAssetName: Player Prefab
+  spriteLibAssetName: Player Sprite Lib
+  secondarySpriteTextures: []
