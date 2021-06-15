@@ -1,3 +1,2 @@
 # loop_game
-this is a test for myself to upload my Unity game to github.
-This is a changed text.
+I made this game for my sister birthday.
